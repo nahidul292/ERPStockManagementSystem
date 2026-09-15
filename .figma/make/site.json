@@ -1,0 +1,10 @@
+{
+  "description": "Manage purchase orders, costs, sales, and profits with a comprehensive ERP system designed to streamline financial and stock management for perfume businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
